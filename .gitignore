@@ -1,0 +1,44 @@
+# User-specific files 
+*.suo
+*.user
+*.sln.docstates
+*~.xml
+
+# chunk files
+*.ply
+*.bin
+_chunkinfo
+
+# Build results
+[Dd]ynamic/
+[Dd]ebug/
+# [Bb]in/
+# [Bb]uild/
+#[Rr]elease/
+[Oo]bj/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+# *.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
